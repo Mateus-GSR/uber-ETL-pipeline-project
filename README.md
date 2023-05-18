@@ -29,6 +29,4 @@ Data Dictionary - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_t
 
 Data model was constructed using lucid charts
 
-![Data_Model](C:\Users\mateu\Downloads\Uber_Data_Pipeline\Uber_Data_Model.png)  
-
-![Javatpoint](C:\Users\mateu\Downloads/Uber_Data_Model.png)  
+![Uber_Data_Model](https://github.com/Mateus-GSR/uber-ETL-pipeline-project/assets/82157273/339cc1eb-e60b-44d3-a954-dc29bd1970cf)
