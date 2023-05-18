@@ -2,6 +2,10 @@
 
 This project aims to leverage a range of tools to conduct comprehensive data analytics on Uber data. Using GCP Storage, Python, Mage Data Pipeline Tool, BigQuery, and Looker Studio, we will extract valuable insights and trends from the data.
 
+## Architecture
+
+![architecture](https://github.com/Mateus-GSR/uber-ETL-pipeline-project/assets/82157273/17d4415c-93f9-4b22-9db2-880c49cd5aaa)
+
 ## Tools Used
 
 Programming Language - Python, SQL
