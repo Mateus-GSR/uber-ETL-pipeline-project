@@ -31,4 +31,4 @@ Data model was constructed using lucid charts
 
 ![Data_Model](C:\Users\mateu\Downloads\Uber_Data_Pipeline\Uber_Data_Model.png)  
 
-![Javatpoint](My Computer/Downloads/Uber_Data_Model.png)  
+![Javatpoint](C:\Users\mateu\Downloads/Uber_Data_Model.png)  
