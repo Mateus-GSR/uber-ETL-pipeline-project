@@ -30,5 +30,5 @@ Data Dictionary - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_t
 
 Data model was constructed using lucid charts
 
-![Data_Model](C:\Users\mateu\Downloads\Uber Data Pipeline\Uber_Data_Model.png)  
+![Data_Model](C:\Users\mateu\Downloads\Uber_Data_Pipeline\Uber_Data_Model.png)  
 
